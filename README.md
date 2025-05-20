@@ -1,6 +1,6 @@
-# 🎓 Projet de Fin d'Études – Digitalisation de la Gestion de Stock
+# 🎓 Projet  – Digitalisation de la Gestion de Stock
 
-Ce projet a été réalisé dans le cadre de mon projet de fin d'études en cycle ingénieur Génie Industriel.  
+Ce projet s’inscrit dans le cadre de ma formation en cycle ingénieur Génie Industriel, et fait partie des travaux réalisés au cours de mon parcours.
 Il vise à améliorer la gestion des stocks dans une station-service à travers des outils de prévision et d’analyse de données.
 
 ## 🧠 Objectifs
